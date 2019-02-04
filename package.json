@@ -1,0 +1,12 @@
+{
+  "name": "range-collection-v2",
+  "version": "1.0.0",
+  "description": "Range Collection without 3rd party libraries",
+  "main": "RangeCollection.js",
+  "scripts": {
+    "start": "node RangeCollection.js"
+  },
+  "author": "Mike Gusev",
+  "license": "ISC",
+  "dependencies": {}
+}
